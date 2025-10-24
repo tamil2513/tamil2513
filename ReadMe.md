@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tamilselvansportfolio.netlify.app">
-    <img src="images/img1.jpg" alt="Banner" width="50%">
+    <img src="images/200.webp" alt="Banner" width="50%">
   </a>
 </p>
 
